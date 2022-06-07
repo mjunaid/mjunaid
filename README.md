@@ -2,7 +2,12 @@
 - 👀 I’m interested in Webdevelopment, Data Analytics, Cryptocurrencies and Finance
 - 🌱 I’m currently learning ReactJS and Redux
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me mjunaidarshad [at] yahoo.com
+- 📫 Reach me: mjunaidarshad [at] yahoo.com
+
+Experienced in:
+- Excel/VBA - mastery
+- Python - webscrapping, trading bots - Learning Django
+- HTML, Javascript and CSS - Developing frontend app interface using ReactJS and Redux. More to come here...
 
 <!---
 mjunaid/mjunaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
