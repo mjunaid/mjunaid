@@ -2,7 +2,7 @@
 - 👀 I’m interested in Webdevelopment, Data Analytics, Cryptocurrencies and Finance
 - 🌱 I’m currently learning ReactJS and Redux
 - 💞️ I’m looking to collaborate on projects
-- 📫 Reach me: mjunaidarshad [at] yahoo.com
+- 📫 Reach me: https://junaidarshad.com/contact
 
 Experienced in:
 - Excel/VBA - mastery
